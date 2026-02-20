@@ -8,23 +8,23 @@ It is useful for small shops, stores, and as a college or placement-level academ
 ---
 
 ## Features
-- Secure login system with password protection
-- Bill generation with automatic bill number
-- Stores bill history in text files
-- Export billing data to CSV (Excel supported)
-- Uses file handling for permanent data storage
-- Simple console-based user interface
-- Update existing bills
-- Delete bills from system
-- Search bills using phone number
-- View bill details by bill number
-- Track product sales and generate reports
-- Maintain operator login history
-- Records login history of users with date and time
-- Allows checking and viewing login history records
-- Password recovery using security questions
-- Account lock system after multiple failed login attempts
-- Input validation and error handling
+- Secure login system with password protection.
+- Bill generation with automatic bill number.
+- Stores bill history in text files.
+- Export billing data to CSV (Excel supported).
+- Uses file handling for permanent data storage.
+- Simple console-based user interface.
+- Update existing bills.
+- Delete bills from system.
+- Search bills using phone number.
+- View bill details by bill number.
+- Track product sales and generate reports.
+- Maintain operator login history.
+- Records login history of users with date and time.
+- Allows checking and viewing login history records.
+- Password recovery using security questions.
+- Account lock system after multiple failed login attempts.
+- Input validation and error handling.
 
 ---
 
@@ -101,7 +101,7 @@ It is useful for small shops, stores, and as a college or placement-level academ
 - Disk Space: 50 MB
 - Terminal / Console Access
 
-  ---
+---
 
 ## Security Implementation
 - Password protection with encrypted storage
@@ -110,7 +110,7 @@ It is useful for small shops, stores, and as a college or placement-level academ
 - Account lock system after multiple failed login attempts
 - Password recovery using security questions
 
-  ---
+---
 
 ## Data Storage
 - All data is stored using file handling to ensure permanent storage.
@@ -125,7 +125,7 @@ It is useful for small shops, stores, and as a college or placement-level academ
 - Backup of important data can be created manually for data safety.
 - Error handling is implemented to prevent data loss during file operations.
   
-  ---
+---
 
 ## Validation and Error Handling
 - Input validation for names, phone numbers, quantity, and price
@@ -133,7 +133,7 @@ It is useful for small shops, stores, and as a college or placement-level academ
 - Handles file read/write errors safely
 - Protects system from accidental data corruption
 
-  ---
+---
 
 ## Key Learning Outcomes
 - Practical implementation of C++ file handling
@@ -142,7 +142,7 @@ It is useful for small shops, stores, and as a college or placement-level academ
 - Real-world billing system design
 - Error handling and input validation
 
-  ---
+---
 ## How to Run the Project
 1. Open the project in Turbo C++, VS Code, or Code::Blocks  
 2. Compile the program using: g++ Billing_System.cpp -o Billing_System
